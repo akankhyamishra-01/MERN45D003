@@ -1,0 +1,13 @@
+/*id selector "#" */
+#para1{
+    background-color: blueviolet;
+}
+/*class selector "." */
+.para2{
+    background-color: brown;
+}
+
+/*tag name selector */
+p{
+    /*font-size
+    }
